@@ -1,5 +1,5 @@
 # microGPT
-The paper analysis and clustering tool powered by **chatGPT**.
+The paper analysis and query tool powered by **chatGPT**.
 This release is a beta release only and therefore does not provide a flexible workflow.  
 
 ## Function
